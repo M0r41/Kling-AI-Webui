@@ -1,0 +1,175 @@
+{
+  "Home": {
+    "title": "Kling AI -  Kuaishou Kling AI Video Generation Model",
+    "description": "Kling AI, Make Imagination Alive. This is a revolutionary text-to-video model like Sora. Kling AI boasts an impressive capability in creating videos, enabling users to effortlessly and efficiently craft artistic video productions.",
+    "join": "Download Kuaiying to Enjoy Kling AI"
+  },
+  "About": {
+    "title": "About Us",
+    "description": "",
+    "content1": "Welcome to Kling AI, where imagination comes alive. Kling AI is a revolutionary text-to-video generation model that enables users to effortlessly and efficiently craft artistic video productions. With Kling AI, you can create dynamic and cinematic-level scenes, making any character move as you want.",
+    "content2": "At Kling AI, we're not just building tools; we're crafting solutions that make a difference. Our goal is simple yet profound: to create AI applications that are not just smart, but indispensable to those who use them. With a deep understanding of AI generation technology, we're committed to developing products that are user-friendly, efficient, and powerful.",
+    "content3": "Guided by our slogan, ‘Make Imagination Alive,’ we strive to exceed expectations and set new standards in the tech industry. Kling AI's proprietary model architecture and Scaling Law-inspired capabilities enable the simulation of real-world physics in video generation, enhancing our lives in ways we've only just begun to imagine.",
+    "content4": "Join us on this journey as we continue to push the limits of what's possible with AI, creating tools that are not just technologically advanced, but that also serve to inspire, educate, and empower. Experience the transformation of seasons, conceptual combinations, and cinematic video generation with Kling AI.",
+    "content5": "If you are interested in Kling AI, please contact us via email: contact@klingai.co.",
+    "one": {
+      "title": "Generate Dynamic Motion with Kling AI",
+      "description": "Kling AI's 3D spatiotemporal joint attention mechanism models complex motions, producing videos with significant and realistic movements.",
+      "col-one": {
+        "1": "Create cinematic-level scenes like a man riding a horse against a sunset in the Gobi Desert."
+      }
+    },
+    "two": {
+      "title": "Long Video Generation with Kling AI",
+      "description": "Kling AI can generate videos up to 2 minutes long at 30fps, showcasing its efficient training and inference optimization.",
+      "col-one": {
+        "1": "Experience the transformation of seasons in a video of a boy cycling in a garden."
+      }
+    },
+    "three": {
+      "title": "Simulate Physical World with Kling AI",
+      "description": "Kling AI's proprietary model architecture and Scaling Law-inspired capabilities enable the simulation of real-world physics in video generation.",
+      "col-one": {
+        "1": "Visualize a Chinese boy with glasses savoring a cheeseburger in a fast-food restaurant."
+      }
+    },
+    "four": {
+      "title": "Conceptual Combination with Kling AI",
+      "description": "Kling AI's deep understanding of text-video semantics and Diffusion Transformer architecture brings imaginative concepts to life in video form.",
+      "col-one": {
+        "1": "Imagine a white cat driving a car through a bustling city street."
+      }
+    },
+    "five": {
+      "title": "Cinematic Video Generation with Kling AI",
+      "description": "With its self-developed 3D VAE, Kling AI generates 1080p cinematic videos, capturing both grand and intimate scenes vividly.",
+      "col-one": {
+        "1": "Picture a couple walking under the stars with the sky changing behind them."
+      }
+    },
+    "six": {
+      "title": "Flexible Aspect Ratio with Kling AI",
+      "description": "Kling AI's variable resolution training strategy allows for diverse aspect ratios in video output, catering to various video material needs.",
+      "col-one": {
+        "1": "Envision a Corgi wearing sunglasses strolling on a tropical beach."
+      }
+    }
+  },
+  "Footer": {
+    "content": "Kling AI | The Text-To-Video Generation Model.",
+    "rights": "2024 klingai.co. All rights reserved.",
+    "usefulLinks": {
+      "title": "Feature Links",
+      "about": "About"
+    },
+    "terms": {
+      "title": "Terms",
+      "privacy": "Privacy policy",
+      "termsConditions": "Terms & Conditions"
+    },
+    "supportAndHelp": {
+      "title": "Support & Help",
+      "contactUs": "Contact Us"
+    }
+  },
+  "Faq": {
+    "title": "Frequently Asked Questions",
+    "1": {
+      "question": "What is Kuaishou Kling AI?",
+      "answer": "Kuaishou Kling AI Video Generation Model is a revolutionary text-to-video generation model that enables users to effortlessly and efficiently craft artistic video productions. It boasts an impressive capability in creating videos, making imagination come alive."
+    },
+    "2": {
+      "question": "How to use Kling AI?",
+      "answer-1": "1. Open Kling AI and click 'Join Kling AI'.",
+      "answer-2": "2. Upload an image or provide a text prompt.",
+      "answer-3": "3. Input the prompt to control the generated motion video."
+    },
+    "3": {
+      "question": "What features does Kling AI offer?",
+      "answer-1": "1. Generate dynamic motion with Kling AI's 3D spatiotemporal joint attention mechanism.",
+      "answer-2": "2. Create long videos up to 2 minutes at 30fps.",
+      "answer-3": "3. Simulate real-world physics with Kling AI's proprietary model architecture.",
+      "answer-4": "4. Combine imaginative concepts with Kling AI's deep understanding of text-video semantics.",
+      "answer-5": "5. Generate 1080p cinematic videos with Kling AI's self-developed 3D VAE.",
+      "answer-6": "6. Produce videos with diverse aspect ratios using Kling AI's variable resolution training strategy."
+    },
+    "4": {
+      "question": "Is Kling AI free?",
+      "answer": "Kling AI is currently in beta version, and it's free to try for the main features now."
+    },
+    "5": {
+      "question": "Can Kling AI generate videos based on existing videos?",
+      "answer": "Yes, you can upload a character video and input the prompt to generate new motion videos."
+    },
+    "6": {
+      "question": "What are some prompt templates for Kling AI?",
+      "answer": "Here are some of the templates: 'Create cinematic-level scenes like a man riding a horse against a sunset in the Gobi Desert', 'Experience the transformation of seasons in a video of a boy cycling in a garden', 'Visualize a Chinese boy with glasses savoring a cheeseburger in a fast-food restaurant', 'Imagine a white cat driving a car through a bustling city street', 'Picture a couple walking under the stars with the sky changing behind them', 'Envision a Corgi wearing sunglasses strolling on a tropical beach'. For more, please visit: https://kling.ai/prompt"
+    },
+    "7": {
+      "question": "Troubleshooting",
+      "answer": "If your videos aren't generating correctly, try a different browser or clear your cache. If issues persist, contact us at contact@klingai.co."
+    },
+    "8": {
+      "question": "What are the usage rights for the videos generated by Kling AI?",
+      "answer": "Users are typically free to use the videos generated by Kling AI for personal enjoyment, sharing on social media, or even for commercial purposes, as long as they adhere to the platform's Terms of Use."
+    },
+    "9": {
+      "question": "Supporting Kling AI",
+      "answer": "Love what we're doing? Consider providing feedback, or purchasing merchandise featuring your favorite video creations. Your support helps us improve and grow."
+    }
+  },
+  "FooterNavigation": {
+    "privacyPolicy": {
+      "1-h1": "Privacy Policy for Kling AI",
+      "1-p": "This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decides to use our Service. If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.",
+      "2-h2": "1. Information Collection and Use",
+      "2-p": "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained on your device and is not collected by us in any way. The app does use third-party services that may collect information used to identify you.",
+      "3-h2": "2. Log Data",
+      "3-p": "We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ('IP') address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.",
+      "4-h2": "3. Cookies",
+      "4-p": "Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. This Service does not use these \"cookies\" explicitly. However, the app may use third-party code and libraries that use \"cookies\" to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.",
+      "5-h2": "4. Service Providers",
+      "5-p-1": "We may employ third-party companies and individuals due to the following reasons:",
+      "5-li-1": "To facilitate our Service;",
+      "5-li-2": "To provide the Service on our behalf;",
+      "5-li-3": "To perform Service-related services;",
+      "5-li-4": "To assist us in analyzing how our Service is used;",
+      "5-p-2": "We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.",
+      "6-h2": "5. Security",
+      "6-p": "We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.",
+      "7-h2": "6. Links to Other Sites",
+      "7-p": "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.",
+      "8-h2": "7. Changes to This Privacy Policy",
+      "8-p": "We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page."
+    },
+    "termsConditions": {
+      "1-h1": "Terms of Service for Kling AI",
+      "1-p": "Welcome to Kling AI! Our website, located at https://klingai.co (\"Website\"), is dedicated to providing you with the ability to create custom videos. By accessing or using our Website, you agree to be bound by these Terms of Service (\"Terms\"). If you do not agree with any part of the terms, then you are prohibited from using the Website.",
+      "2-h2": "1. Use License",
+      "2-p": "You are granted a limited, non-exclusive, non-transferable license to use the Website and its services for personal, non-commercial purposes. This license does not include any rights to copy, modify, or distribute the Website's content or use it for commercial purposes without our prior written consent.",
+      "3-h2": "2. Ownership",
+      "3-p": "The ownership of videos generated from text on the Website belongs to the person who created the video. Kling AI claims no ownership over videos created by users.",
+      "4-h2": "3. User Data Collection",
+      "4-p": "We collect personal data (name, email, and payment information) and non-personal data (web cookies) to improve our services. The use of this data is governed by our Privacy Policy, which can be found at",
+      "terms-of-service": "terms-of-service",
+      "5-h2": "4. Governing Law",
+      "5-p": "These Terms shall be governed and construed in accordance with the laws of the United States of America, without regard to its conflict of law provisions.",
+      "6-h2": "5. Changes to Terms",
+      "6-p": "Kling AI reserves the right, at our sole discretion, to modify or replace these Terms at any time. We will notify users of any changes by email. Your continued use of the Website after any change in these Terms will constitute your acceptance of such changes.",
+      "7-h2": "6. Contact Information",
+      "7-p": "If you have any questions about these Terms, please contact us at contact@klingai.co.",
+      "last-p": "By using Kling AI, you signify your acceptance of these Terms of Service."
+    }
+  },
+  "Metadata": {
+    "home": {
+      "title": "Kling AI -  Kuaishou Kling AI Video Generation Model",
+      "description": "Kling AI, Make Imagination Alive. This is a revolutionary text-to-video model like Sora. Kling AI boasts an impressive capability in creating videos, enabling users to effortlessly and efficiently craft artistic video productions.",
+      "keywords": "Kling AI, Kling AI Video Generation Model, Kling AI Video Generator"
+    },
+    "about": {
+      "title": "Kling AI about page",
+      "description": "about the product of Kling AI"
+    }
+  }
+}
